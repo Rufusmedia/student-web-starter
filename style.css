@@ -1,0 +1,91 @@
+/*
+	THE BELOW @IMPORT STATEMENTS INCLUDE OUR BASE STYLESHEETS IN THIS ONE.  
+	WE SHOULD "CONCATENATE" THESE WHEN WE'RE DONE SO EVERYTHING IS IN ONE FILE.
+	EACH TIME WE @IMPORT A STYLESHEET, IT MAKES AN EXTRA REQUEST TO THE SERVER. 
+	THE LESS REQUESTS WE MAKE TO THE SERVER, THE FASTER OUR SITE WILL BE.
+*/
+@import url(css/normalize.min.css);
+@import url(css/grid.css);
+
+
+/*
+====================================================================
+	SITE LAYOUT SECTION:
+	*this is where we put code that applies to the whole page
+	 layout.  Things like default colors, typography, site
+	 structure, and helper styles
+====================================================================
+*/
+
+
+
+
+/*
+====================================================================
+	UI LAYOUT SECTION:
+	*this is where we put code that has to do with our site 
+	 controls and user interface.  Things like navigation, 
+	 buttons, links, etc...
+====================================================================
+*/
+
+
+
+
+/*
+====================================================================
+	CONTENT LAYOUT SECTION:
+	*this is where we put code that has to do with our site main 
+	 content section(s).  Article and comment styling will likely
+	 go here.  
+====================================================================
+*/
+
+
+
+
+/*
+====================================================================
+	SIDEBAR LAYOUT SECTION:
+	*this is where we put code that has to do with our site
+	 sidebar section(s).  Widgets and such will be styled here.  
+====================================================================
+*/
+
+
+
+
+/*
+====================================================================
+	FOOTER LAYOUT SECTION:
+	*this is where we put code that has to do with our site
+	 footer section(s).  Social media, copyrights, ect...  
+====================================================================
+*/
+
+
+
+/*
+====================================================================
+	MEDIA QUERY SECTION:
+	*this is where we put code that makes our site look good on
+	 different screen sizes.   
+====================================================================
+*/
+
+/*
+PHONE LANDSCAPE AND SMALLER
+------------------------------------
+*/
+@media (max-width: 480px) { 
+	/* our code here... */
+}
+
+
+/* 
+LANDSCAPE PHONE TO PORTRAIT TABLET 
+------------------------------------
+*/
+@media (max-width: 767px) { 
+	/* our code here... */
+}
